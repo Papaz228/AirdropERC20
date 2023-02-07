@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Airdrop Frontend</title>
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.3.0/dist/web3.min.js"></script>
+    <script src="airdrop.js">
+    </script>
+    <link rel="stylesheet" type="text/css" href="airdrop.css" /> 
+  </head>
+  <body>
+    <h1>Airdrop Frontend</h1>
+    <div id="content">
+      <form>
+        <div>
+          <label for="recipient">Recipient Address:</label>
+          <input type="text" id="recipient" name="recipient">
+        </div>
+        <div>
+          <label for="amount">Amount:</label>
+          <input type="text" id="amount" name="amount">
+        </div>
+        <button type="button" id="connect-metamask-button" onclick="connect();">Connect MetaMask</button>
+        <button type="button" id="airdrop-button" style="display: none;" onclick="airdrop()">Airdrop</button>
+      </form>
+    </div>
+  </body>
+</html>
