@@ -8,6 +8,7 @@ https://goerli.etherscan.io/tx/0x043f9baf1922e9c78da70ec3a06123878755023dd09f7ac
 https://goerli.etherscan.io/tx/0xd421bfeaba3a2e2af700301d688dddda4dc206f89320da733cd804618a314c9a to Dulat
 Uniswap: https://goerli.etherscan.io/tx/0x8549ae5c1fcd4f7a97159c5e4ed523eb8750aa105ead8b05f288692e53bd4269
  
+![image](https://user-images.githubusercontent.com/74819372/222162518-31558e84-023c-455d-87b4-d185fd21ba59.png)
 
 Remix:
 // SPDX-License-Identifier: MIT
@@ -56,5 +57,7 @@ Transactions:
 https://goerli.etherscan.io/tx/0xbaf726385ff75b2b680bbd12238e380f17eb11a64168148a3602c412a4b86825 to Ablai
 https://goerli.etherscan.io/tx/0x093fe9f7fa82b330ae896f9d4ca95408423e0866a28d5d8fc6e9ccaa9e02ad73 to Angelina
  
- 
+ ![image](https://user-images.githubusercontent.com/74819372/222162588-b0766aeb-aba4-4b67-8366-c99cc0dedd5b.png)
+![image](https://user-images.githubusercontent.com/74819372/222162615-9d64d8e9-e99f-4002-8917-43cfd24f3cea.png)
+
 
